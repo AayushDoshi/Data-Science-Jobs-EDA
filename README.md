@@ -7,7 +7,7 @@ This repository contains a Python script for analyzing salary data using the pan
 - pandas library
 
 ## Getting Started
-1. Clone the repository or download the script file (`salary_analysis.py`).
+1. Clone the repository or download the script file (`salary_analysis.ipynb`).
 2. Ensure that the `ds_salaries.csv` file is present in the same directory as the script.
 
 ## Functionality
