@@ -1,6 +1,6 @@
 # Salary Analysis and Insights - README
 
-This repository contains a Python script for analyzing salary data using the pandas library. The script reads a CSV file containing salary information and performs various analyses to extract insights about employee salaries and related factors. Here's a breakdown of the script and its functionality:
+This repository contains a Python script for analyzing salary data using the pandas library. The script reads a CSV file containing salary information and performs various analyses to extract insights about employee salaries and related factors.In addition to the Python script, I have also created a Tableau visualization using the same dataset. The visualization provides an interactive and visual representation of the salary data.  Here's a breakdown of the script and its functionality:
 
 ## Prerequisites
 - Python 3.x
